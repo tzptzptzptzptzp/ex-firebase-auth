@@ -20,3 +20,27 @@ npm
 npm run dev // 開発用サーバー起動
 
 ```
+
+---
+
+## Introduction
+
+This is an implementation sample of a login feature using Firebase Authentication.  
+The frontend is developed using React.  
+Authentication is done using a Google account, and the component displayed changes based on the login status.
+
+## Technologies Used
+
+- [React](https://ja.react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/?hl=ja)
+- [Vite](https://ja.vitejs.dev/)
+
+## Development Procedure
+
+We use npm:
+
+```bash
+npm
+npm run dev // Launching the development server
+```
